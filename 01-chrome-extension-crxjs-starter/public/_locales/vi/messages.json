@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "Trợ lý Đọc Tiếng Anh"
+  },
+  "extDescription": {
+    "message": "Tra từ, lưu từ vựng và theo dõi tiến trình đọc của bạn."
+  },
+  "lookupWord": {
+    "message": "Tra nghĩa"
+  },
+  "saveWord": {
+    "message": "Lưu từ"
+  },
+  "wordSaved": {
+    "message": "Đã lưu!"
+  },
+  "flashcard": {
+    "message": "Thẻ ghi nhớ"
+  },
+  "statistics": {
+    "message": "Thống kê"
+  },
+  "wordList": {
+    "message": "Danh sách từ"
+  },
+  "settings": {
+    "message": "Cài đặt"
+  },
+  "darkMode": {
+    "message": "Chế độ tối"
+  },
+  "language": {
+    "message": "Ngôn ngữ"
+  },
+  "noWords": {
+    "message": "Chưa có từ nào được lưu. Bôi đen một từ trên trang web để bắt đầu!"
+  }
+}

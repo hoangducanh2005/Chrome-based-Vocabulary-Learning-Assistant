@@ -1,0 +1,38 @@
+{
+  "extName": {
+    "message": "English Reading Assistant"
+  },
+  "extDescription": {
+    "message": "Look up words, save vocabulary, and track your reading progress."
+  },
+  "lookupWord": {
+    "message": "Look up"
+  },
+  "saveWord": {
+    "message": "Save word"
+  },
+  "wordSaved": {
+    "message": "Saved!"
+  },
+  "flashcard": {
+    "message": "Flashcards"
+  },
+  "statistics": {
+    "message": "Statistics"
+  },
+  "wordList": {
+    "message": "Word List"
+  },
+  "settings": {
+    "message": "Settings"
+  },
+  "darkMode": {
+    "message": "Dark mode"
+  },
+  "language": {
+    "message": "Language"
+  },
+  "noWords": {
+    "message": "No saved words yet. Highlight a word on any page to get started!"
+  }
+}
