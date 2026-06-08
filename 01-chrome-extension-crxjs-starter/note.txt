@@ -1,0 +1,2 @@
+- Frontend: React + Vite (Sử dụng pluggin CRXJS) 
+- Backend: Không có (hoặc sử dụng A
