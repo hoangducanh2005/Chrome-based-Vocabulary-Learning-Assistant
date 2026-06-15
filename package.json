@@ -1,12 +1,8 @@
 {
-    "name": "hoidanit-extension",
+    "name": "vocab-learning-assistant",
     "type": "module",
     "version": "1.0.0",
     "private": true,
-    "author": {
-        "name": "Hỏi Dân IT @hoidanit",
-        "url": "https://hoidanit.vn"
-    },
     "scripts": {
         "dev": "vite",
         "build": "tsc -b && vite build",
