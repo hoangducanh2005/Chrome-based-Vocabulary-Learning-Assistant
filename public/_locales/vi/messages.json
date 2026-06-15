@@ -1,18 +1,15 @@
 {
   "extName": {
-    "message": "Trợ lý Đọc Tiếng Anh"
+    "message": "Trợ lý học từ vựng"
   },
   "extDescription": {
-    "message": "Tra từ, lưu từ vựng và theo dõi tiến trình đọc của bạn."
+    "message": "Tiện ích mở rộng Chrome mạnh mẽ dành cho người học ngôn ngữ."
   },
   "lookupWord": {
-    "message": "Tra nghĩa"
+    "message": "Tra từ"
   },
-  "saveWord": {
-    "message": "Lưu từ"
-  },
-  "wordSaved": {
-    "message": "Đã lưu!"
+  "wordList": {
+    "message": "Từ vựng"
   },
   "flashcard": {
     "message": "Thẻ ghi nhớ"
@@ -20,19 +17,7 @@
   "statistics": {
     "message": "Thống kê"
   },
-  "wordList": {
-    "message": "Danh sách từ"
-  },
   "settings": {
     "message": "Cài đặt"
-  },
-  "darkMode": {
-    "message": "Chế độ tối"
-  },
-  "language": {
-    "message": "Ngôn ngữ"
-  },
-  "noWords": {
-    "message": "Chưa có từ nào được lưu. Bôi đen một từ trên trang web để bắt đầu!"
   }
 }

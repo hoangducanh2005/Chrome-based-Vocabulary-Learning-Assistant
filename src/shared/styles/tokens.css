@@ -1,0 +1,41 @@
+:root {
+  --bg: #f0f2f8;
+  --surface: #ffffff;
+  --surface2: #f5f6fb;
+  --surface3: #eaecf5;
+  --border: rgba(0,0,0,0.07);
+  --border2: rgba(0,0,0,0.12);
+  --accent: #6254e8;
+  --accent2: #8072ef;
+  --accent-bg: rgba(98,84,232,0.08);
+  --teal: #1aaa88;
+  --teal-bg: rgba(26,170,136,0.08);
+  --amber: #d4960a;
+  --amber-bg: rgba(212,150,10,0.10);
+  --red: #d94f4f;
+  --red-bg: rgba(217,79,79,0.08);
+  --text: #1a1d2e;
+  --text2: #5a5f7a;
+  --text3: #a0a5c0;
+}
+
+.dark {
+  --bg: #0e1018;
+  --surface: #161822;
+  --surface2: #1e2130;
+  --surface3: #262a3e;
+  --border: rgba(255,255,255,0.07);
+  --border2: rgba(255,255,255,0.12);
+  --accent: #7c6ef7;
+  --accent2: #a99ff9;
+  --accent-bg: rgba(124,110,247,0.12);
+  --teal: #2dd4ac;
+  --teal-bg: rgba(45,212,172,0.10);
+  --amber: #f5b944;
+  --amber-bg: rgba(245,185,68,0.12);
+  --red: #f26d6d;
+  --red-bg: rgba(242,109,109,0.10);
+  --text: #e6e8f0;
+  --text2: #8b90a8;
+  --text3: #555a72;
+}

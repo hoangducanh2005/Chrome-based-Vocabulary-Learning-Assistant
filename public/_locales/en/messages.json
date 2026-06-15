@@ -1,38 +1,23 @@
 {
   "extName": {
-    "message": "English Reading Assistant"
+    "message": "Vocabulary Learning Assistant"
   },
   "extDescription": {
-    "message": "Look up words, save vocabulary, and track your reading progress."
+    "message": "A powerful Chrome extension built for language learners."
   },
   "lookupWord": {
-    "message": "Look up"
+    "message": "Lookup"
   },
-  "saveWord": {
-    "message": "Save word"
-  },
-  "wordSaved": {
-    "message": "Saved!"
+  "wordList": {
+    "message": "Vocabulary"
   },
   "flashcard": {
     "message": "Flashcards"
   },
   "statistics": {
-    "message": "Statistics"
-  },
-  "wordList": {
-    "message": "Word List"
+    "message": "Stats"
   },
   "settings": {
     "message": "Settings"
-  },
-  "darkMode": {
-    "message": "Dark mode"
-  },
-  "language": {
-    "message": "Language"
-  },
-  "noWords": {
-    "message": "No saved words yet. Highlight a word on any page to get started!"
   }
 }
