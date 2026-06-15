@@ -1,2 +1,13 @@
 - Frontend: React + Vite (Sử dụng pluggin CRXJS) 
 - Backend: Không có (hoặc sử dụng A
+
+Nghien cuu bai toan
+Google Chrome Extension: "English Reading Assistant" 
+Core (không cần AI): 
+├── Bôi đen từ → tra nghĩa ngay    ← Content UI 
+├── Lưu từ vựng đã tra         ← Storage    
+├── Flashcard ôn tập               ← Popup React 
+├── Reading time + progress bar    ← Scroll API 
+└── Thống kê từ đã học theo ngày   ← Background + Chart 
+Optional AI: 
+└── Summary đoạn bôi đen      ←  AI API integration     
